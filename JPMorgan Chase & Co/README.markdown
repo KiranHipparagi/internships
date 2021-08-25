@@ -36,7 +36,7 @@
 
 
 <h2>How to Run</h2>
-To start the server, run
+To start the server,run
 
 	python server.py
 
